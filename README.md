@@ -14,7 +14,7 @@ This repository contains the snapshot versions of Helm charts maintained by Frau
 To add the Fraunhofer IOSB Helm charts snapshot repository execute:
 
 ```
-$ helm repo add fraunhoferiosbsnapshots https://fraunhoferiosb.github.io/helm-charts-snapshots
+$ helm repo add fraunhoferiosbsnapshot https://fraunhoferiosb.github.io/helm-charts-snapshot
 ```
 
 Then calling:
@@ -23,5 +23,5 @@ $ helm repo list
 ```
 should display the Fraunhofer IOSB Helm charts repository entry:
 ```
-fraunhoferiosbsnapshots    https://fraunhoferiosb.github.io/helm-charts-snapshots
+fraunhoferiosbsnapshot    https://fraunhoferiosb.github.io/helm-charts-snapshot
 ```
