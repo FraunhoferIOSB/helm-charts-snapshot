@@ -3,11 +3,11 @@ entries:
   frost-server:
   - apiVersion: v1
     appVersion: 1.9-SNAPSHOT
-    created: 2018-08-31T06:44:15.994595888Z
+    created: 2018-08-31T07:04:07.192162279Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
-    digest: b26144f73f8f9e43d52c3f5d4f50d798cb373fcfe47b585f3bff8e93e0d12f8f
+    digest: cb67166ca03ea5f7176c26e375f2dffc13665e16e370eb10b09302f6f122e114
     home: https://github.com/FraunhoferIOSB/FROST-Server
     icon: https://raw.githubusercontent.com/FraunhoferIOSB/FROST-Server/master/images/FROST-Server-darkgrey.png
     keywords:
@@ -25,7 +25,7 @@ entries:
     version: 1.9.1-snapshot
   - apiVersion: v1
     appVersion: "1.8"
-    created: 2018-08-31T06:44:15.993101959Z
+    created: 2018-08-31T07:04:07.190294632Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -45,4 +45,4 @@ entries:
     urls:
     - https://fraunhoferiosb.github.io/helm-charts-snapshot/frost-server-1.8.1.tgz
     version: 1.8.1
-generated: 2018-08-31T06:44:15.991453219Z
+generated: 2018-08-31T07:04:07.189320685Z
